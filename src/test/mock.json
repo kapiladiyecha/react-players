@@ -1,0 +1,52 @@
+[
+	{ "id": 1, "name": "Mercury", "books": [{ "id": 1, "title": "LOLITA", "genre": "Comic Book or Graphic Novel", "library_id": 1, "libraryName": "Mercury" }] },
+	{ "id": 2, "name": "Venus", "books": [{ "id": 13, "title": "DARKNESS AT NOON", "genre": "Action and Adventure", "library_id": 2, "libraryName": "Venus" }] },
+	{
+		"id": 3,
+		"name": "Pluto",
+		"books": [
+			{ "id": 15, "title": "THE WAY OF ALL FLESH", "genre": "Classics", "library_id": 3, "libraryName": "Pluto" },
+			{ "id": 14, "title": "THE GRAPES OF WRATH", "genre": "Horror", "library_id": 3, "libraryName": "Pluto" }
+		]
+	},
+	{
+		"id": 4,
+		"name": "Mars",
+		"books": [
+			{ "id": 17, "title": "ANIMAL FARM", "genre": "Classics", "library_id": 4, "libraryName": "Mars" },
+			{ "id": 16, "title": "THE BRIDGE OF SAN LUIS REY", "genre": "Fantasy", "library_id": 4, "libraryName": "Mars" }
+		]
+	},
+	{
+		"id": 5,
+		"name": "Neptune",
+		"books": [
+			{ "id": 18, "title": "THE STUDS LONIGAN TRILOGY", "genre": "Comic Book or Graphic Novel", "library_id": 5, "libraryName": "Neptune" },
+			{ "id": 19, "title": "THE WINGS OF THE DOVE", "genre": "Detective and Mystery", "library_id": 5, "libraryName": "Neptune" }
+		]
+	},
+	{
+		"id": 6,
+		"name": "Jupiter",
+		"books": [
+			{ "id": 21, "title": "HENDERSON THE RAIN KING", "genre": "Historical Fiction", "library_id": 6, "libraryName": "Jupiter" },
+			{ "id": 20, "title": "APPOINTMENT IN SAMARRA", "genre": "Literary Fiction", "library_id": 6, "libraryName": "Jupiter" }
+		]
+	},
+	{
+		"id": 7,
+		"name": "Saturn",
+		"books": [
+			{ "id": 22, "title": "NATIVE SON", "genre": "Detective and Mystery", "library_id": 7, "libraryName": "Saturn" },
+			{ "id": 23, "title": "THE HEART IS A LONELY HUNTER", "genre": "Literary Fiction", "library_id": 7, "libraryName": "Saturn" }
+		]
+	},
+	{
+		"id": 8,
+		"name": "Earth",
+		"books": [
+			{ "id": 24, "title": "AN AMERICAN TRAGEDY", "genre": "Historical Fiction", "library_id": 8, "libraryName": "Earth" },
+			{ "id": 25, "title": "I, CLAUDIUS", "genre": "Horror", "library_id": 8, "libraryName": "Earth" }
+		]
+	}
+]
